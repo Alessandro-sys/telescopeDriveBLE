@@ -28,3 +28,18 @@ The [equatorial mount](https://en.wikipedia.org/wiki/Equatorial_mount) is a part
 
 ## Circuit
 ![circuit](https://github.com/Alessandro-sys/telescopeDriveBLE/blob/main/Immagini/Circuito.PNG)
+
+## APP
+![code](https://github.com/Alessandro-sys/telescopeDriveBLE/blob/main/Immagini/Code.PNG)
+![connessione](https://github.com/Alessandro-sys/telescopeDriveBLE/blob/main/Immagini/Connessione.PNG)
+![operazioni](https://github.com/Alessandro-sys/telescopeDriveBLE/blob/main/Immagini/Operazioni.PNG)
+
+
+## Functioning
+The operation of the project is very simple
+
+1. press the button "connect" on the app and find the arduino
+2. the arduino will automatically conenct and the page on the app will change
+3. press the function buttons on the app to change the mount speed
+
+The main code is located in the src/main/main.ino directory.
