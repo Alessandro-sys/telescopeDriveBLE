@@ -27,4 +27,4 @@ The [equatorial mount](https://en.wikipedia.org/wiki/Equatorial_mount) is a part
 
 
 ## Circuit
-![circuit](https://github.com/Alessandro-sys/ArduinoScopio/assets/71657415/c5ddfb40-449c-487e-b541-2b8605a9b0c0)
+![circuit](https://github.com/Alessandro-sys/telescopeDriveBLE/blob/main/Immagini/Circuito.PNG)
